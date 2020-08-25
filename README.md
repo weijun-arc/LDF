@@ -29,7 +29,7 @@ Download the following datasets and unzip them into `data` folder
 - [DUTS](http://saliencydetection.net/duts/)
 - [THUR15K](https://mmcheng.net/mftp/Data/THUR15000.zip)
 
-## Training & evaluation
+## Training & Evaluation
 - If you want to train the model by yourself, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `res` folder
 - Split the ground truth into body map and detail map, which will be saved into `data/DUTS/body-origin` and `data/DUTS/detail-origin`
 ```shell
@@ -56,7 +56,7 @@ Download the following datasets and unzip them into `data` folder
 - Training twice is to get smoother body and detail maps, as shown in following figure
 ![visualize](./fig/visualize.png) 
 
-## Testing & evaluate
+## Testing & Evaluate
 - If you just want to evaluate the performance of LDF without training, please download our trained model into `train-fine/out` folder
 - Predict the saliency maps
 ```shell
