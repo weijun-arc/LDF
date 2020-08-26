@@ -1,4 +1,4 @@
-## [Label Decoupling Framework for Salient Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)
+## [Label Decoupling Framework for Salient Object Detection](https://arxiv.org/pdf/2008.11048.pdf)
 by Jun Wei, Shuhui Wang, Zhe Wu, Chi Su, Qingming Huang, Qi Tian
 
 ## Introduction
