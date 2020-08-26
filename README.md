@@ -41,7 +41,7 @@ Download the following datasets and unzip them into `data` folder
     python3 train.py
     python3 test.py
 ```
-- Use above predicted maps to train the model again and predict final saliencpy maps, which will be saved into `eval/maps/LDF` folder.
+- Use above predicted maps to train the model again and predict final saliency maps, which will be saved into `eval/maps/LDF` folder.
 ```shell
     cd /train-fine/
     python3 train.py
